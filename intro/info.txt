@@ -1,0 +1,7 @@
+npm i pug-cli -g
+
+pug -w ./ -o ./html -P
+
+
+https://pugjs.org/language/doctype.html 
+can be doctype html, xml, transitional, strict, frameset, etc 
